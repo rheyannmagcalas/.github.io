@@ -1,0 +1,73 @@
+.banner {
+	background-color: #233237; 
+	color: white; 
+	height: 270px;
+	padding-top: 5%;
+	padding-left: 8%;
+	font-family: 'Aldrich', sans-serif;
+	letter-spacing: -1px;
+}
+
+.banner a {
+	color: white;
+}
+
+.name {
+	font-weight: 700; 
+	font-size: 50px;
+}
+
+h2 {
+	font-size: 20px;
+	font-weight: 500px;
+	font-family: 'Aldrich', sans-serif;
+	color: #EAC67A;
+}
+
+.info {
+	padding-left: 8%;
+	font-family: 'Armata', sans-serif;
+}
+
+.info h2 {
+	font-size: 20px;
+	font-weight: 700;
+	color: #984843;
+}
+
+.info h4 {
+	font-size: 15px;
+	font-weight: 700;
+	color: #181215;
+}
+
+.info h3 {
+	font-size: 16px;
+	font-weight: 800;
+	color: #984843;
+}
+
+.info p {
+	font-size: 15px;
+	color: #181215;
+	padding:0;
+	margin:0;
+}
+
+.btn-danger {
+	background-color: #EAC67A;
+	border-color: #EAC67A;
+	font-size: 15px;
+	font-weight: 700;
+	font-family: 'Armata', sans-serif; 
+	color:#000;
+}
+
+.btn-danger:hover, .btn-danger:active {
+	background-color: #EAC67A;
+	border-color: #EAC67A;
+	font-size: 15px;
+	font-weight: 700;
+	font-family: 'Armata', sans-serif; 
+	color:#000;
+}
