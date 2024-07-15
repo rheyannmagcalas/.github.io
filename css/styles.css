@@ -66,7 +66,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #fff;
+  background-color: #F5F5F5;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -6075,7 +6075,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #283747 !important;
+  background-color: #26495c !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -9777,7 +9777,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #932432 !important;
+  color: #c66b3d !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
